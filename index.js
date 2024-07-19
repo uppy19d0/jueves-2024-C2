@@ -1,1 +1,1 @@
-console.log('Hello jueves-2024-C2');
+console.log('Hello jueves');
